@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: neoflix._03_RegisterUserTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.113 s - in neoflix._03_RegisterUserTest
