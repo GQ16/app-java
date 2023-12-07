@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: neoflix._10_GenreDetailsTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.634 s - in neoflix._10_GenreDetailsTest

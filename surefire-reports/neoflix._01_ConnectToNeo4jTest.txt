@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: neoflix._01_ConnectToNeo4jTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.032 s - in neoflix._01_ConnectToNeo4jTest
